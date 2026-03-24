@@ -6,7 +6,7 @@ A classic Tic‑Tac‑Toe game where you play against an AI opponent. The AI use
 
 ## 🎮 Live Demo
 
-Play the game here: [https://github.com/lakshita-rawat/tic-tac-toe.git](https://github.com/lakshita-rawat/tic-tac-toe.git)
+Play the game here: [https://lakshita-rawat.github.io/tic-tac-toe/](https://lakshita-rawat.github.io/tic-tac-toe/)
 
 ## ✨ Features
 
